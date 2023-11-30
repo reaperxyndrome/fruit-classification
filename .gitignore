@@ -2,3 +2,6 @@
 /FruitDataSet
 /pbs_resize
 /pomegranate_bad_subset
+/FruitDataset_resize
+/dataset.npy
+/dataset_labelled.npy
